@@ -1,0 +1,4 @@
+sword:
+  damage: 8.0
+  special-effects:
+    enabled: true
