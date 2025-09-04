@@ -1,0 +1,7 @@
+name: EmeraldSword
+version: 1.0.0
+main: dev.nicooo.emeraldsword.EmeraldSwordPlugin
+api-version: 1.20
+author: Nicooo23456
+description: A plugin that adds a powerful Emerald Sword to Minecraft
+commands: {}
